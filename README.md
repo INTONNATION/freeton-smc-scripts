@@ -1,10 +1,15 @@
+### Remarks
+
+msig.sh, depool.sh and send_stake_to_depool.sh now supports only FLD.TON.DEV. 
+Will be updates soon.
+
 ### Pre-requirements
 
-- tonos-cli
+- tonos-cli installed and configured to the required network. 
 - solc
 - tvm_linker
 - solc stdlib
-- msig abi
+- msig abi (better to clone https://github.com/tonlabs/ton-labs-contracts on the same level as this repo)
 - msig wallet with tokens
 - check vars(abi and stdlib path) in smc-update.sh smc-deploy.sh debot-deploy.sh
 
