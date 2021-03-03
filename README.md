@@ -1,7 +1,7 @@
 ### Remarks
 
 msig.sh, depool.sh and send_stake_to_depool.sh now supports only FLD.TON.DEV. 
-Will be updates soon.
+Will be updated soon.
 
 ### Pre-requirements
 
