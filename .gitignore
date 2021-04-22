@@ -1,0 +1,7 @@
+*.abi.json
+*.addr
+*.code
+*.tvc
+*.keys.json
+debot_err.log
+
